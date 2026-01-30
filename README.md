@@ -22,7 +22,7 @@ This project contains automated tests for the **Singlish to Sinhala Translator**
 
 1. **Clone or navigate to the project directory:**
 ```bash
-git clone 
+git clone https://github.com/Senomie/playwright-singlish-tests.git
 ```
 
 2. **Install project dependencies:**
